@@ -1,0 +1,284 @@
+{
+  "homepages": [],
+  "source_base_path": "/home/runner/work/poker-docfx/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CardEngine.Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CardEngine.Card.html",
+          "hash": "C7rvkB4F6ijYdfwG5pt/UA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CardEngine.CardExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CardEngine.CardExtension.html",
+          "hash": "qtIEfNEhWNiaRKmQQGryDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CardEngine.Deck.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CardEngine.Deck.html",
+          "hash": "CUlHmIMFihKLlwodpAeFNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CardEngine.DeckExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CardEngine.DeckExtensions.html",
+          "hash": "CLISJb0osMxDx5LsnZ2Pdg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CardEngine.PokerHand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CardEngine.PokerHand.html",
+          "hash": "vouZdFmK2pprecR4sikljw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CardEngine.PokerHandExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CardEngine.PokerHandExtensions.html",
+          "hash": "qge6muo6J2zpZGUY6P9Nzg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CardEngine.PokerHandRanking.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CardEngine.PokerHandRanking.html",
+          "hash": "EAsDAbmXG6QtkbRGemmKXw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CardEngine.Rank.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CardEngine.Rank.html",
+          "hash": "7D9JTUjwrIj2Q2zyYRak7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CardEngine.RankExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CardEngine.RankExtensions.html",
+          "hash": "VNDq4SAUXLYSZbRou39S+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CardEngine.Suit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CardEngine.Suit.html",
+          "hash": "m7Gs1KdQ05CYHhgMZmko7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CardEngine.SuitExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CardEngine.SuitExtensions.html",
+          "hash": "+Z9tAUMfJ4CqS3+qwTPOaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CardEngine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CardEngine.html",
+          "hash": "xUqlErk3+OYr/ksepkaIug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ConsolePokerClient.CardPrinter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ConsolePokerClient.CardPrinter.html",
+          "hash": "Ev0Ix7KCPWVu7OZPw1fbBA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ConsolePokerClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ConsolePokerClient.html",
+          "hash": "FqrhXly08uGbhHgqaiWXzw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "Akofe2by6lJCCq6b1AmCIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "tMzoRbc3rqg2SQmx4R2rgg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "7TKwyQDomQizn2QqTlh3YQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "gB8AESyvNru97tzIZofEEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "Xo/CUQhHh0vDRBkkhDx1PQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 14,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
