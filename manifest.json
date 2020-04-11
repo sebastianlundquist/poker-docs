@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.Card.html",
-          "hash": "C7rvkB4F6ijYdfwG5pt/UA=="
+          "hash": "QxWg/3GsSECCTjfx7Wf5dg=="
         }
       },
       "is_incremental": false,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.CardExtension.html",
-          "hash": "qtIEfNEhWNiaRKmQQGryDw=="
+          "hash": "cWv0ttrBF59tLfdPqRn6JA=="
         }
       },
       "is_incremental": false,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.Deck.html",
-          "hash": "CUlHmIMFihKLlwodpAeFNA=="
+          "hash": "y/RTLxWKNzAwAkIaOzUk2A=="
         }
       },
       "is_incremental": false,
@@ -45,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.DeckExtensions.html",
-          "hash": "CLISJb0osMxDx5LsnZ2Pdg=="
+          "hash": "Qjkx84L7gN6Sqw/t5bBiZw=="
         }
       },
       "is_incremental": false,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.PokerHand.html",
-          "hash": "vouZdFmK2pprecR4sikljw=="
+          "hash": "h5472NBh1t2NJTEymconSQ=="
         }
       },
       "is_incremental": false,
@@ -69,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.PokerHandExtensions.html",
-          "hash": "qge6muo6J2zpZGUY6P9Nzg=="
+          "hash": "9C0i20HrLppSppkRhbUr5g=="
         }
       },
       "is_incremental": false,
@@ -81,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.PokerHandRanking.html",
-          "hash": "EAsDAbmXG6QtkbRGemmKXw=="
+          "hash": "6xuG/tL5Zc9tkNONHREMhA=="
         }
       },
       "is_incremental": false,
@@ -93,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.Rank.html",
-          "hash": "7D9JTUjwrIj2Q2zyYRak7g=="
+          "hash": "jcSz88+EJ0JiI1QD1DQjYQ=="
         }
       },
       "is_incremental": false,
@@ -105,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.RankExtensions.html",
-          "hash": "VNDq4SAUXLYSZbRou39S+A=="
+          "hash": "w5qYCd67t4GDrFJP3Is03g=="
         }
       },
       "is_incremental": false,
@@ -117,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.Suit.html",
-          "hash": "m7Gs1KdQ05CYHhgMZmko7A=="
+          "hash": "+3HL4tlox5TYd9u8fmYhQA=="
         }
       },
       "is_incremental": false,
@@ -129,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.SuitExtensions.html",
-          "hash": "+Z9tAUMfJ4CqS3+qwTPOaw=="
+          "hash": "GjO3Zd3KF5ANLuofKuVQHg=="
         }
       },
       "is_incremental": false,
@@ -141,7 +141,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.html",
-          "hash": "xUqlErk3+OYr/ksepkaIug=="
+          "hash": "cVq9OIck0LZNpcP3aN3N8g=="
         }
       },
       "is_incremental": false,
@@ -153,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/ConsolePokerClient.CardPrinter.html",
-          "hash": "Ev0Ix7KCPWVu7OZPw1fbBA=="
+          "hash": "oVY8++EXhc7GdxaUkRq77Q=="
         }
       },
       "is_incremental": false,
@@ -165,7 +165,7 @@
       "output": {
         ".html": {
           "relative_path": "api/ConsolePokerClient.html",
-          "hash": "FqrhXly08uGbhHgqaiWXzw=="
+          "hash": "/gjd4zP53lzK0en33liMuw=="
         }
       },
       "is_incremental": false,
@@ -177,7 +177,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "Akofe2by6lJCCq6b1AmCIg=="
+          "hash": "XhLcoL1UWD+4uqCU+Q6qPg=="
         }
       },
       "is_incremental": false,
@@ -201,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "7TKwyQDomQizn2QqTlh3YQ=="
+          "hash": "ekPZvCbHGZUXokorfmlAfA=="
         }
       },
       "is_incremental": false,
@@ -225,7 +225,19 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "Xo/CUQhHh0vDRBkkhDx1PQ=="
+          "hash": "lUQYVbM+jUmp4wrTaDtReg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "Xhp7+KQzRVTBYFwN+pSpPQ=="
         }
       },
       "is_incremental": false,
