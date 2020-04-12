@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.Card.html",
-          "hash": "7JPul88YHVDlrLNLf1LxqA=="
+          "hash": "aQaplfpPx4DFQ9dz+f3qxw=="
         }
       },
       "is_incremental": false,
@@ -21,7 +21,19 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.CardExtension.html",
-          "hash": "GniPO/gM//RmgfPqs05Mlw=="
+          "hash": "cWv0ttrBF59tLfdPqRn6JA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CardEngine.CardExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CardEngine.CardExtensions.html",
+          "hash": "kQlH3D0TEZz/ysGyf7uXOA=="
         }
       },
       "is_incremental": false,
@@ -33,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.Deck.html",
-          "hash": "QNfhrWwTlVySUHMf2BgGKQ=="
+          "hash": "1ymtQNezVIW3IarUPftMjQ=="
         }
       },
       "is_incremental": false,
@@ -45,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.DeckExtensions.html",
-          "hash": "ebBUWb3rM6ikDtFYtgybeg=="
+          "hash": "jdfbCMqbVVvoUiYaVdUuLw=="
         }
       },
       "is_incremental": false,
@@ -57,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.PokerHand.html",
-          "hash": "VCd8cq1Jd8Cil8cyK4XLaA=="
+          "hash": "KkW8Q6p1PlDQUfEnHW15eQ=="
         }
       },
       "is_incremental": false,
@@ -81,19 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.PokerHandRanking.html",
-          "hash": "0dxeZ8jj4rGZOUDezKMoBQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CardEngine.PokerHandRankingExtensions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CardEngine.PokerHandRankingExtensions.html",
-          "hash": "+Dn4fgQPrEQrjlvxxd54eQ=="
+          "hash": "RsKpGB83Tu6g9Uz4Bu+myw=="
         }
       },
       "is_incremental": false,
@@ -105,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.Rank.html",
-          "hash": "yCtpv4Msbd7QztMzDzSBdg=="
+          "hash": "qzsIi8QIs6lygtS0mr9F4A=="
         }
       },
       "is_incremental": false,
@@ -117,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.RankExtensions.html",
-          "hash": "xIv541th9K4qHnrXZpBG/Q=="
+          "hash": "w5qYCd67t4GDrFJP3Is03g=="
         }
       },
       "is_incremental": false,
@@ -129,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.Suit.html",
-          "hash": "C5PptOhIO5mfuflzx5wYMQ=="
+          "hash": "s4GA9YHBs6HgvbKqSWtlTA=="
         }
       },
       "is_incremental": false,
@@ -141,7 +141,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.SuitExtensions.html",
-          "hash": "BPlc6O53dREPzhjP5q6Hug=="
+          "hash": "GjO3Zd3KF5ANLuofKuVQHg=="
         }
       },
       "is_incremental": false,
@@ -153,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.html",
-          "hash": "+DWsuQIegAb8E3NDz70GoQ=="
+          "hash": "JVhd/62n2n8uNKaXRk2isA=="
         }
       },
       "is_incremental": false,
@@ -165,7 +165,7 @@
       "output": {
         ".html": {
           "relative_path": "api/ConsolePokerClient.CardPrinter.html",
-          "hash": "Bd0WdDJ83yjjAOGDgmzaEQ=="
+          "hash": "gCNbmuDyAFM0/AYerZ4ybg=="
         }
       },
       "is_incremental": false,
@@ -201,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "UGjy1y080YNj7ewIDEJsBQ=="
+          "hash": "0EMOht17VngnoMZIa/mqfQ=="
         }
       },
       "is_incremental": false,

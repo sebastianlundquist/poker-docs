@@ -136,6 +136,25 @@ references:
   isSpec: "True"
   fullName: CardEngine.CardExtension.ToShortString
   nameWithType: CardExtension.ToShortString
+- uid: CardEngine.CardExtensions
+  name: CardExtensions
+  href: api/CardEngine.CardExtensions.html
+  commentId: T:CardEngine.CardExtensions
+  fullName: CardEngine.CardExtensions
+  nameWithType: CardExtensions
+- uid: CardEngine.CardExtensions.ToShortString(CardEngine.Card)
+  name: ToShortString(Card)
+  href: api/CardEngine.CardExtensions.html#CardEngine_CardExtensions_ToShortString_CardEngine_Card_
+  commentId: M:CardEngine.CardExtensions.ToShortString(CardEngine.Card)
+  fullName: CardEngine.CardExtensions.ToShortString(CardEngine.Card)
+  nameWithType: CardExtensions.ToShortString(Card)
+- uid: CardEngine.CardExtensions.ToShortString*
+  name: ToShortString
+  href: api/CardEngine.CardExtensions.html#CardEngine_CardExtensions_ToShortString_
+  commentId: Overload:CardEngine.CardExtensions.ToShortString
+  isSpec: "True"
+  fullName: CardEngine.CardExtensions.ToShortString
+  nameWithType: CardExtensions.ToShortString
 - uid: CardEngine.Deck
   name: Deck
   href: api/CardEngine.Deck.html
@@ -188,14 +207,14 @@ references:
   fullName: CardEngine.DeckExtensions.Shuffle
   nameWithType: DeckExtensions.Shuffle
 - uid: CardEngine.DeckExtensions.Shuffle``2(``0)
-  name: Shuffle<T, U>(T)
+  name: Shuffle<T, T1>(T)
   href: api/CardEngine.DeckExtensions.html#CardEngine_DeckExtensions_Shuffle__2___0_
   commentId: M:CardEngine.DeckExtensions.Shuffle``2(``0)
-  name.vb: Shuffle(Of T, U)(T)
-  fullName: CardEngine.DeckExtensions.Shuffle<T, U>(T)
-  fullName.vb: CardEngine.DeckExtensions.Shuffle(Of T, U)(T)
-  nameWithType: DeckExtensions.Shuffle<T, U>(T)
-  nameWithType.vb: DeckExtensions.Shuffle(Of T, U)(T)
+  name.vb: Shuffle(Of T, T1)(T)
+  fullName: CardEngine.DeckExtensions.Shuffle<T, T1>(T)
+  fullName.vb: CardEngine.DeckExtensions.Shuffle(Of T, T1)(T)
+  nameWithType: DeckExtensions.Shuffle<T, T1>(T)
+  nameWithType.vb: DeckExtensions.Shuffle(Of T, T1)(T)
 - uid: CardEngine.PokerHand
   name: PokerHand
   href: api/CardEngine.PokerHand.html
@@ -342,25 +361,6 @@ references:
   commentId: F:CardEngine.PokerHandRanking.TwoPairs
   fullName: CardEngine.PokerHandRanking.TwoPairs
   nameWithType: PokerHandRanking.TwoPairs
-- uid: CardEngine.PokerHandRankingExtensions
-  name: PokerHandRankingExtensions
-  href: api/CardEngine.PokerHandRankingExtensions.html
-  commentId: T:CardEngine.PokerHandRankingExtensions
-  fullName: CardEngine.PokerHandRankingExtensions
-  nameWithType: PokerHandRankingExtensions
-- uid: CardEngine.PokerHandRankingExtensions.ToFriendlyString(CardEngine.PokerHandRanking)
-  name: ToFriendlyString(PokerHandRanking)
-  href: api/CardEngine.PokerHandRankingExtensions.html#CardEngine_PokerHandRankingExtensions_ToFriendlyString_CardEngine_PokerHandRanking_
-  commentId: M:CardEngine.PokerHandRankingExtensions.ToFriendlyString(CardEngine.PokerHandRanking)
-  fullName: CardEngine.PokerHandRankingExtensions.ToFriendlyString(CardEngine.PokerHandRanking)
-  nameWithType: PokerHandRankingExtensions.ToFriendlyString(PokerHandRanking)
-- uid: CardEngine.PokerHandRankingExtensions.ToFriendlyString*
-  name: ToFriendlyString
-  href: api/CardEngine.PokerHandRankingExtensions.html#CardEngine_PokerHandRankingExtensions_ToFriendlyString_
-  commentId: Overload:CardEngine.PokerHandRankingExtensions.ToFriendlyString
-  isSpec: "True"
-  fullName: CardEngine.PokerHandRankingExtensions.ToFriendlyString
-  nameWithType: PokerHandRankingExtensions.ToFriendlyString
 - uid: CardEngine.Rank
   name: Rank
   href: api/CardEngine.Rank.html
