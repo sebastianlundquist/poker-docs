@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.Card.html",
-          "hash": "QxWg/3GsSECCTjfx7Wf5dg=="
+          "hash": "7JPul88YHVDlrLNLf1LxqA=="
         }
       },
       "is_incremental": false,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.CardExtension.html",
-          "hash": "cWv0ttrBF59tLfdPqRn6JA=="
+          "hash": "GniPO/gM//RmgfPqs05Mlw=="
         }
       },
       "is_incremental": false,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.Deck.html",
-          "hash": "y/RTLxWKNzAwAkIaOzUk2A=="
+          "hash": "QNfhrWwTlVySUHMf2BgGKQ=="
         }
       },
       "is_incremental": false,
@@ -45,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.DeckExtensions.html",
-          "hash": "Qjkx84L7gN6Sqw/t5bBiZw=="
+          "hash": "zmS9qyHhd7LRt3LA4RSzqQ=="
         }
       },
       "is_incremental": false,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.PokerHand.html",
-          "hash": "h5472NBh1t2NJTEymconSQ=="
+          "hash": "x/dTfk3Duj1rPzH2VydvEg=="
         }
       },
       "is_incremental": false,
@@ -69,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.PokerHandExtensions.html",
-          "hash": "9C0i20HrLppSppkRhbUr5g=="
+          "hash": "iRxAG2fGUX2J5drnbdDS3w=="
         }
       },
       "is_incremental": false,
@@ -81,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.PokerHandRanking.html",
-          "hash": "6xuG/tL5Zc9tkNONHREMhA=="
+          "hash": "0dxeZ8jj4rGZOUDezKMoBQ=="
         }
       },
       "is_incremental": false,
@@ -93,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.Rank.html",
-          "hash": "jcSz88+EJ0JiI1QD1DQjYQ=="
+          "hash": "yCtpv4Msbd7QztMzDzSBdg=="
         }
       },
       "is_incremental": false,
@@ -105,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.RankExtensions.html",
-          "hash": "w5qYCd67t4GDrFJP3Is03g=="
+          "hash": "xIv541th9K4qHnrXZpBG/Q=="
         }
       },
       "is_incremental": false,
@@ -117,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.Suit.html",
-          "hash": "+3HL4tlox5TYd9u8fmYhQA=="
+          "hash": "C5PptOhIO5mfuflzx5wYMQ=="
         }
       },
       "is_incremental": false,
@@ -129,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CardEngine.SuitExtensions.html",
-          "hash": "GjO3Zd3KF5ANLuofKuVQHg=="
+          "hash": "BPlc6O53dREPzhjP5q6Hug=="
         }
       },
       "is_incremental": false,
@@ -153,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/ConsolePokerClient.CardPrinter.html",
-          "hash": "oVY8++EXhc7GdxaUkRq77Q=="
+          "hash": "cPJTK5iTqT3X8OEvYxMTLw=="
         }
       },
       "is_incremental": false,
@@ -165,7 +165,7 @@
       "output": {
         ".html": {
           "relative_path": "api/ConsolePokerClient.html",
-          "hash": "/gjd4zP53lzK0en33liMuw=="
+          "hash": "Tp9jwWu89y+gAzl8m4GTCg=="
         }
       },
       "is_incremental": false,
@@ -177,7 +177,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "6kry5kFtvjYDwlWn5H/JLg=="
+          "hash": "MBp1gaSL6/BjdDr1XN+2+A=="
         }
       },
       "is_incremental": false,
@@ -201,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "3BKGjurVzOoNmdMlyOKKKQ=="
+          "hash": "SiD/csrzJ2qyIhRRl/YtzA=="
         }
       },
       "is_incremental": false,
@@ -225,7 +225,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "nRXww7aCDC3Odfa+GYDXwQ=="
+          "hash": "acQDcPVYOi+aBJaq79VWgg=="
         }
       },
       "is_incremental": false,
