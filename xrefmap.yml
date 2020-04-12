@@ -180,12 +180,50 @@ references:
   isSpec: "True"
   fullName: CardEngine.DeckExtensions.Draw
   nameWithType: DeckExtensions.Draw
+- uid: CardEngine.DeckExtensions.Shuffle*
+  name: Shuffle
+  href: api/CardEngine.DeckExtensions.html#CardEngine_DeckExtensions_Shuffle_
+  commentId: Overload:CardEngine.DeckExtensions.Shuffle
+  isSpec: "True"
+  fullName: CardEngine.DeckExtensions.Shuffle
+  nameWithType: DeckExtensions.Shuffle
+- uid: CardEngine.DeckExtensions.Shuffle``2(``0)
+  name: Shuffle<T, U>(T)
+  href: api/CardEngine.DeckExtensions.html#CardEngine_DeckExtensions_Shuffle__2___0_
+  commentId: M:CardEngine.DeckExtensions.Shuffle``2(``0)
+  name.vb: Shuffle(Of T, U)(T)
+  fullName: CardEngine.DeckExtensions.Shuffle<T, U>(T)
+  fullName.vb: CardEngine.DeckExtensions.Shuffle(Of T, U)(T)
+  nameWithType: DeckExtensions.Shuffle<T, U>(T)
+  nameWithType.vb: DeckExtensions.Shuffle(Of T, U)(T)
 - uid: CardEngine.PokerHand
   name: PokerHand
   href: api/CardEngine.PokerHand.html
   commentId: T:CardEngine.PokerHand
   fullName: CardEngine.PokerHand
   nameWithType: PokerHand
+- uid: CardEngine.PokerHand.#ctor
+  name: PokerHand()
+  href: api/CardEngine.PokerHand.html#CardEngine_PokerHand__ctor
+  commentId: M:CardEngine.PokerHand.#ctor
+  fullName: CardEngine.PokerHand.PokerHand()
+  nameWithType: PokerHand.PokerHand()
+- uid: CardEngine.PokerHand.#ctor(System.Collections.Generic.Stack{CardEngine.Card})
+  name: PokerHand(Stack<Card>)
+  href: api/CardEngine.PokerHand.html#CardEngine_PokerHand__ctor_System_Collections_Generic_Stack_CardEngine_Card__
+  commentId: M:CardEngine.PokerHand.#ctor(System.Collections.Generic.Stack{CardEngine.Card})
+  name.vb: PokerHand(Stack(Of Card))
+  fullName: CardEngine.PokerHand.PokerHand(System.Collections.Generic.Stack<CardEngine.Card>)
+  fullName.vb: CardEngine.PokerHand.PokerHand(System.Collections.Generic.Stack(Of CardEngine.Card))
+  nameWithType: PokerHand.PokerHand(Stack<Card>)
+  nameWithType.vb: PokerHand.PokerHand(Stack(Of Card))
+- uid: CardEngine.PokerHand.#ctor*
+  name: PokerHand
+  href: api/CardEngine.PokerHand.html#CardEngine_PokerHand__ctor_
+  commentId: Overload:CardEngine.PokerHand.#ctor
+  isSpec: "True"
+  fullName: CardEngine.PokerHand.PokerHand
+  nameWithType: PokerHand.PokerHand
 - uid: CardEngine.PokerHand.Add(CardEngine.Card)
   name: Add(Card)
   href: api/CardEngine.PokerHand.html#CardEngine_PokerHand_Add_CardEngine_Card_
@@ -304,6 +342,25 @@ references:
   commentId: F:CardEngine.PokerHandRanking.TwoPairs
   fullName: CardEngine.PokerHandRanking.TwoPairs
   nameWithType: PokerHandRanking.TwoPairs
+- uid: CardEngine.PokerHandRankingExtensions
+  name: PokerHandRankingExtensions
+  href: api/CardEngine.PokerHandRankingExtensions.html
+  commentId: T:CardEngine.PokerHandRankingExtensions
+  fullName: CardEngine.PokerHandRankingExtensions
+  nameWithType: PokerHandRankingExtensions
+- uid: CardEngine.PokerHandRankingExtensions.ToFriendlyString(CardEngine.PokerHandRanking)
+  name: ToFriendlyString(PokerHandRanking)
+  href: api/CardEngine.PokerHandRankingExtensions.html#CardEngine_PokerHandRankingExtensions_ToFriendlyString_CardEngine_PokerHandRanking_
+  commentId: M:CardEngine.PokerHandRankingExtensions.ToFriendlyString(CardEngine.PokerHandRanking)
+  fullName: CardEngine.PokerHandRankingExtensions.ToFriendlyString(CardEngine.PokerHandRanking)
+  nameWithType: PokerHandRankingExtensions.ToFriendlyString(PokerHandRanking)
+- uid: CardEngine.PokerHandRankingExtensions.ToFriendlyString*
+  name: ToFriendlyString
+  href: api/CardEngine.PokerHandRankingExtensions.html#CardEngine_PokerHandRankingExtensions_ToFriendlyString_
+  commentId: Overload:CardEngine.PokerHandRankingExtensions.ToFriendlyString
+  isSpec: "True"
+  fullName: CardEngine.PokerHandRankingExtensions.ToFriendlyString
+  nameWithType: PokerHandRankingExtensions.ToFriendlyString
 - uid: CardEngine.Rank
   name: Rank
   href: api/CardEngine.Rank.html
@@ -487,15 +544,6 @@ references:
   commentId: M:ConsolePokerClient.CardPrinter.Print(CardEngine.Card)
   fullName: ConsolePokerClient.CardPrinter.Print(CardEngine.Card)
   nameWithType: CardPrinter.Print(Card)
-- uid: ConsolePokerClient.CardPrinter.Print(System.Collections.Generic.List{CardEngine.Card})
-  name: Print(List<Card>)
-  href: api/ConsolePokerClient.CardPrinter.html#ConsolePokerClient_CardPrinter_Print_System_Collections_Generic_List_CardEngine_Card__
-  commentId: M:ConsolePokerClient.CardPrinter.Print(System.Collections.Generic.List{CardEngine.Card})
-  name.vb: Print(List(Of Card))
-  fullName: ConsolePokerClient.CardPrinter.Print(System.Collections.Generic.List<CardEngine.Card>)
-  fullName.vb: ConsolePokerClient.CardPrinter.Print(System.Collections.Generic.List(Of CardEngine.Card))
-  nameWithType: CardPrinter.Print(List<Card>)
-  nameWithType.vb: CardPrinter.Print(List(Of Card))
 - uid: ConsolePokerClient.CardPrinter.Print*
   name: Print
   href: api/ConsolePokerClient.CardPrinter.html#ConsolePokerClient_CardPrinter_Print_
@@ -503,3 +551,12 @@ references:
   isSpec: "True"
   fullName: ConsolePokerClient.CardPrinter.Print
   nameWithType: CardPrinter.Print
+- uid: ConsolePokerClient.CardPrinter.Print``1(``0)
+  name: Print<T>(T)
+  href: api/ConsolePokerClient.CardPrinter.html#ConsolePokerClient_CardPrinter_Print__1___0_
+  commentId: M:ConsolePokerClient.CardPrinter.Print``1(``0)
+  name.vb: Print(Of T)(T)
+  fullName: ConsolePokerClient.CardPrinter.Print<T>(T)
+  fullName.vb: ConsolePokerClient.CardPrinter.Print(Of T)(T)
+  nameWithType: CardPrinter.Print<T>(T)
+  nameWithType.vb: CardPrinter.Print(Of T)(T)
