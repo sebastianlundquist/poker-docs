@@ -538,11 +538,11 @@ references:
   commentId: T:ConsolePokerClient.CardPrinter
   fullName: ConsolePokerClient.CardPrinter
   nameWithType: CardPrinter
-- uid: ConsolePokerClient.CardPrinter.Print(CardEngine.Card)
+- uid: ConsolePokerClient.CardPrinter.Print(Card)
   name: Print(Card)
-  href: api/ConsolePokerClient.CardPrinter.html#ConsolePokerClient_CardPrinter_Print_CardEngine_Card_
-  commentId: M:ConsolePokerClient.CardPrinter.Print(CardEngine.Card)
-  fullName: ConsolePokerClient.CardPrinter.Print(CardEngine.Card)
+  href: api/ConsolePokerClient.CardPrinter.html#ConsolePokerClient_CardPrinter_Print_Card_
+  commentId: M:ConsolePokerClient.CardPrinter.Print(Card)
+  fullName: ConsolePokerClient.CardPrinter.Print(Card)
   nameWithType: CardPrinter.Print(Card)
 - uid: ConsolePokerClient.CardPrinter.Print*
   name: Print
