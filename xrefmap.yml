@@ -269,6 +269,22 @@ references:
   isSpec: "True"
   fullName: CardEngine.PokerHand.Push
   nameWithType: PokerHand.Push
+- uid: CardEngine.PokerHand.PushMany(System.Collections.Generic.IEnumerable{CardEngine.Card})
+  name: PushMany(IEnumerable<Card>)
+  href: api/CardEngine.PokerHand.html#CardEngine_PokerHand_PushMany_System_Collections_Generic_IEnumerable_CardEngine_Card__
+  commentId: M:CardEngine.PokerHand.PushMany(System.Collections.Generic.IEnumerable{CardEngine.Card})
+  name.vb: PushMany(IEnumerable(Of Card))
+  fullName: CardEngine.PokerHand.PushMany(System.Collections.Generic.IEnumerable<CardEngine.Card>)
+  fullName.vb: CardEngine.PokerHand.PushMany(System.Collections.Generic.IEnumerable(Of CardEngine.Card))
+  nameWithType: PokerHand.PushMany(IEnumerable<Card>)
+  nameWithType.vb: PokerHand.PushMany(IEnumerable(Of Card))
+- uid: CardEngine.PokerHand.PushMany*
+  name: PushMany
+  href: api/CardEngine.PokerHand.html#CardEngine_PokerHand_PushMany_
+  commentId: Overload:CardEngine.PokerHand.PushMany
+  isSpec: "True"
+  fullName: CardEngine.PokerHand.PushMany
+  nameWithType: PokerHand.PushMany
 - uid: CardEngine.PokerHandExtensions
   name: PokerHandExtensions
   href: api/CardEngine.PokerHandExtensions.html
