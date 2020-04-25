@@ -115,14 +115,14 @@
   </h3>
   
   
-  <a id="CardEngine_PokerHandExtensions_Evaluate_" data-uid="CardEngine.PokerHandExtensions.Evaluate*"></a>
-  <h4 id="CardEngine_PokerHandExtensions_Evaluate_CardEngine_PokerHand_" data-uid="CardEngine.PokerHandExtensions.Evaluate(CardEngine.PokerHand)">Evaluate(PokerHand)</h4>
-  <div class="markdown level1 summary"><p>Evaluates the PokerHandRanking of the given PokerHand.</p>
+  <a id="CardEngine_PokerHandExtensions_GetCurrentHand_" data-uid="CardEngine.PokerHandExtensions.GetCurrentHand*"></a>
+  <h4 id="CardEngine_PokerHandExtensions_GetCurrentHand_System_Collections_Generic_IEnumerable_CardEngine_Card__" data-uid="CardEngine.PokerHandExtensions.GetCurrentHand(System.Collections.Generic.IEnumerable{CardEngine.Card})">GetCurrentHand(IEnumerable&lt;Card&gt;)</h4>
+  <div class="markdown level1 summary"><p>Gets the five Cards in play and the hand's PokerHandRanking out of an IEnumerable of Cards.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static PokerHandRanking Evaluate(this PokerHand hand)</code></pre>
+    <pre><code class="lang-csharp hljs">public static (IEnumerable&lt;Card&gt; Cards, PokerHandRanking Ranking) GetCurrentHand(this IEnumerable&lt;Card&gt; cards)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -135,9 +135,9 @@
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="CardEngine.PokerHand.html">PokerHand</a></td>
-        <td><span class="parametername">hand</span></td>
-        <td><p>The PokerHand to evaluate.</p>
+        <td><span class="xref">System.Collections.Generic.IEnumerable</span>&lt;<a class="xref" href="CardEngine.Card.html">Card</a>&gt;</td>
+        <td><span class="parametername">cards</span></td>
+        <td><p>The Cards to evaluate.</p>
 </td>
       </tr>
     </tbody>
@@ -152,8 +152,8 @@
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="CardEngine.PokerHandRanking.html">PokerHandRanking</a></td>
-        <td><p>The PokerHandRanking of the PokerHand.</p>
+        <td><span class="xref">System.ValueTuple</span>&lt;<span class="xref">System.Collections.Generic.IEnumerable</span>&lt;<a class="xref" href="CardEngine.Card.html">Card</a>&gt;, <a class="xref" href="CardEngine.PokerHandRanking.html">PokerHandRanking</a>&gt;</td>
+        <td><p>The Cards in play and the hand's PokerHandRanking.</p>
 </td>
       </tr>
     </tbody>

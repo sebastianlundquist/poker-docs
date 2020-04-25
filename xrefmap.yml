@@ -275,19 +275,22 @@ references:
   commentId: T:CardEngine.PokerHandExtensions
   fullName: CardEngine.PokerHandExtensions
   nameWithType: PokerHandExtensions
-- uid: CardEngine.PokerHandExtensions.Evaluate(CardEngine.PokerHand)
-  name: Evaluate(PokerHand)
-  href: api/CardEngine.PokerHandExtensions.html#CardEngine_PokerHandExtensions_Evaluate_CardEngine_PokerHand_
-  commentId: M:CardEngine.PokerHandExtensions.Evaluate(CardEngine.PokerHand)
-  fullName: CardEngine.PokerHandExtensions.Evaluate(CardEngine.PokerHand)
-  nameWithType: PokerHandExtensions.Evaluate(PokerHand)
-- uid: CardEngine.PokerHandExtensions.Evaluate*
-  name: Evaluate
-  href: api/CardEngine.PokerHandExtensions.html#CardEngine_PokerHandExtensions_Evaluate_
-  commentId: Overload:CardEngine.PokerHandExtensions.Evaluate
+- uid: CardEngine.PokerHandExtensions.GetCurrentHand(System.Collections.Generic.IEnumerable{CardEngine.Card})
+  name: GetCurrentHand(IEnumerable<Card>)
+  href: api/CardEngine.PokerHandExtensions.html#CardEngine_PokerHandExtensions_GetCurrentHand_System_Collections_Generic_IEnumerable_CardEngine_Card__
+  commentId: M:CardEngine.PokerHandExtensions.GetCurrentHand(System.Collections.Generic.IEnumerable{CardEngine.Card})
+  name.vb: GetCurrentHand(IEnumerable(Of Card))
+  fullName: CardEngine.PokerHandExtensions.GetCurrentHand(System.Collections.Generic.IEnumerable<CardEngine.Card>)
+  fullName.vb: CardEngine.PokerHandExtensions.GetCurrentHand(System.Collections.Generic.IEnumerable(Of CardEngine.Card))
+  nameWithType: PokerHandExtensions.GetCurrentHand(IEnumerable<Card>)
+  nameWithType.vb: PokerHandExtensions.GetCurrentHand(IEnumerable(Of Card))
+- uid: CardEngine.PokerHandExtensions.GetCurrentHand*
+  name: GetCurrentHand
+  href: api/CardEngine.PokerHandExtensions.html#CardEngine_PokerHandExtensions_GetCurrentHand_
+  commentId: Overload:CardEngine.PokerHandExtensions.GetCurrentHand
   isSpec: "True"
-  fullName: CardEngine.PokerHandExtensions.Evaluate
-  nameWithType: PokerHandExtensions.Evaluate
+  fullName: CardEngine.PokerHandExtensions.GetCurrentHand
+  nameWithType: PokerHandExtensions.GetCurrentHand
 - uid: CardEngine.PokerHandExtensions.IsFull(CardEngine.PokerHand)
   name: IsFull(PokerHand)
   href: api/CardEngine.PokerHandExtensions.html#CardEngine_PokerHandExtensions_IsFull_CardEngine_PokerHand_
